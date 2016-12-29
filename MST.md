@@ -1,3 +1,5 @@
+```java
+
 //给好的connection class，两个城市名，和一个cost。
 import java.util.*; //这句话极度重要
 class Connection{
